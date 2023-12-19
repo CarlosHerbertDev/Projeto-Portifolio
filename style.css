@@ -44,8 +44,6 @@ body * {
   color: var(--texte-color);
 }
 #container {
-   width: 360px;
-  
    /*
    border: 1px solid red (borda para ref) 
    margin-top: 56px;
@@ -53,11 +51,10 @@ body * {
    margin-bottom: auto;
    margin-left: auto;
   padding-top , padding-right , padding-left , padding-bottom
-
-
-
    */
 
+   width: 100%;
+   max-width: 588px;
    margin: 56px auto 0px;
    padding: 0px 24px;
 
