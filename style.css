@@ -203,7 +203,7 @@ footer{
   }
 }
 
-/* animation */
+/* (animation) */
 @keyframes slide-in {
   from {
     left: 0;
