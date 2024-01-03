@@ -17,7 +17,7 @@ Agregador de Links usado como portifolio <br/>
 <br>
 
   <p align= 'center'>
-  <img alt="projeto DevLinks" src="./github/fundo.jpg" width='50%'>
+  <img alt="Peojeto Link de Acesso" src="./github/fundo.jpg" width='50%'>
   </p>
 
 
