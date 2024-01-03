@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Links de Acesso é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://carlosherbertdev.github.io/Projeto-Portifolio)
+- [Acesse o projeto finalizado, online](https://CarlosHerbertDev.github.io/Projeto-Portifolio)
 
 ## :memo: Licença
 
